@@ -1,12 +1,12 @@
 {
   "blogs": [
     {
-      "name": "Typhoid",
-      "content": "Conditions like inadequate sanitation, overcrowding, and social unrest favour the growth of typhoid. Typhoid fever is still widespread in developing nations, despite the fact that antibiotics have significantly decreased its prevalence in the developed world. It's possible that S paratyphi infections are becoming more common than S typhi infections. This might be brought on by the immunologic immaturity of a particular population as well as the insufficient protection against these pathogens offered by the current Typhoid vaccinations. The gastroenteritis caused by non-Typhoidal strains is often mild and self-limiting.",
+      "name": "Background of Typhoid",
+      "content": "A potentially fatal multisystemic infection known as enteric fever, often known as typhoid fever, is caused mostly by Salmonella enterica serotype typhi and, to a lesser extent, paratyphi A, B, and C. Salmonella are movable enterobacteriaceae that can cause a number of different gastrointestinal ailments. Typhoid, which is largely caused by Salmonella enterica serotype typhi and, to a lesser extent, S enterica serotypes paratyphi A, B, and C, is the most dangerous of them. From a severe septic infection to small instances of diarrhoea with low-grade fever, it can appear in a wide range of ways. Fever, malaise, widespread stomach pain, and constipation are characteristics of the typical presentation. Within a month, untreated typhoid fever can cause delirium, obtundation, intestinal bleeding, bowel perforation, and death.",
       "id": 2
     },
     {
-      "name": "Typhoid",
+      "name": "Factors that favours growth of typhoid",
       "content": "Conditions like inadequate sanitation, overcrowding, and social unrest favour the growth of typhoid. Typhoid fever is still widespread in developing nations, despite the fact that antibiotics have significantly decreased its prevalence in the developed world. It's possible that S paratyphi infections are becoming more common than S typhi infections. This might be brought on by the immunologic immaturity of a particular population as well as the insufficient protection against these pathogens offered by the current Typhoid vaccinations. The gastroenteritis caused by non-Typhoidal strains is often mild and self-limiting.",
       "id": 3
     }
